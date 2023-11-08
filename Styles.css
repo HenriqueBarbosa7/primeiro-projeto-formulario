@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.logo-image {
+    display: block;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    display: block;
+    width: 321px;
+    height: 46px;
+    margin: 0 auto;
+    color: #F6F6F6;
+    box-shadow: -4px 4px 18px 0px #00000017;
+    border: none;
+    padding-right: 19px;
+}
+
+.input-plasseword {
+    margin-top: 21px;
+
+}
+
+.link-password {
+    display: block;
+    margin-top: 35px;
+    margin-right: 59px;
+    text-align: right;
+    text-decoration: none;
+    color: #000000;
+    cursor: pointer;
+
+}
+
+.link-password:hover {
+    opacity: .4;
+}
+
+.link-password:active {
+    opacity: .2;
+}
+
+button {
+    display: block;
+    margin-top: 38px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 133px;
+    height: 46px;
+    border-radius: 10px;
+    background: #323232;
+    box-shadow: -4px 4px 18px 0px #00000017;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: .4;
+}
+
+button:active {
+    opacity: .2;
+}
+
+.link-signup {
+    text-align: center;
+    display: block;
+    margin-top: 21px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #969696;
+    cursor: pointer;
+}
+
+.link-signup:hover {
+    opacity: .4;
+}
+
+.link-signup:active {
+    opacity: .2;
+}
+
+strong {
+    color: #323232;
+}
+
+p {
+    display: block;
+    text-align: center;
+    margin-top: 62px;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 21px;
+}
+
+.link-redes {
+    display: block;
+    text-align: center;
+    margin: 12px 0 74px 0;
+}
+
+.image-links {
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.image-links:hover {
+   opacity: .4;
+}
+
+.image-links:active {
+    opacity: .2;
+}
